@@ -2,6 +2,8 @@ public class myApex{
 	public String name{
 		get{ return name;}
            extrra changes
+vudei hjdhlfa fouf  jbnjnjf
+static
 
                  sample class
 		set{ name = 'Test';}
@@ -12,6 +14,7 @@ public class myApex{
 
                 get new property
 		set{ name = 'Test';}
+new test are availables
              sample test
           let me know 
 	}
