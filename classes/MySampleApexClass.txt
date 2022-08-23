@@ -1,6 +1,7 @@
 public class myApex{
 	public String name{
 		get{ return name;}
+reverse
                merge dev1+2+3
                  sample class
              new sample classes arev kbdsvl
@@ -18,6 +19,7 @@ gfkgvds
                 get new property
 		set{ name = 'Test';}
              sample test
+the bam e
              new dev3 branch
 set rename class
 	}
