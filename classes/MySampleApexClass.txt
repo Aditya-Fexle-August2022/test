@@ -1,6 +1,8 @@
 public class myApex{
 	public String name{
 		get{ return name;}
+                get new property
 		set{ name = 'Test';}
+             sample test
 	}
 }
