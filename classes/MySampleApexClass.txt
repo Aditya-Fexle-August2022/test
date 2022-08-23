@@ -1,0 +1,6 @@
+public class myApex{
+	public String name{
+		get{ return name;}
+		set{ name = 'Test';}
+	}
+}
