@@ -3,6 +3,8 @@ public class myApex{
 		get{ return name;}
                merge dev1+2+3
                  sample class
+                  hflsfas
+kndfjns
 		set{ name = 'Test';}
    retrieve class
                next class
