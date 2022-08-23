@@ -4,6 +4,7 @@ public class myApex{
                merge dev1+2+3
                  sample class
              new sample classes arev kbdsvl
+               GTE REname classes
                   hflsfas
 kndfjns;jfnjva4
 jbfjklagbjbg
@@ -18,6 +19,7 @@ gfkgvds
 		set{ name = 'Test';}
              sample test
              new dev3 branch
+set rename class
 	}
 }
 
