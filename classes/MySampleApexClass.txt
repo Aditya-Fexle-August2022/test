@@ -1,6 +1,7 @@
 public class myApex{
 	public String name{
 		get{ return name;}
+           extrra changes
 
                  sample class
 		set{ name = 'Test';}
@@ -12,6 +13,7 @@ public class myApex{
                 get new property
 		set{ name = 'Test';}
              sample test
+          let me know 
 	}
 }
 
