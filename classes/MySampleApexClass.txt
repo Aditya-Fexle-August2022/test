@@ -1,0 +1,7 @@
+public class myApex{
+	public String name{
+		get{ return name;}
+                 sample class
+		set{ name = 'Test';}
+	}
+}              retrieve class
