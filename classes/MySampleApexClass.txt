@@ -5,3 +5,4 @@ public class myApex{
 		set{ name = 'Test';}
 	}
 }              retrieve class
+               next class
