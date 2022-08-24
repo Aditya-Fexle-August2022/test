@@ -1,12 +1,20 @@
 public class myApex{
 	public String name{
 		get{ return name;}
+
+
+reversegithub
+done 
+string class
+
 let be new changes
 createnewclaases
+
            extrra changes
 vudei hjdhlfa fouf  jbnjnjf
 static
 reverse class
+
 
 
                merge dev1+2+3
@@ -29,6 +37,8 @@ gfkgvds
 		set{ name = 'Test';}
 new test are availables
              sample test
+
+the bam e
 
           let me know 
 
