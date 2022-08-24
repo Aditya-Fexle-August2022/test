@@ -1,12 +1,22 @@
 public class myApex{
 	public String name{
 		get{ return name;}
+
            extrra changes
 vudei hjdhlfa fouf  jbnjnjf
 static
 reverse class
 
+
+               merge dev1+2+3
+
                  sample class
+             new sample classes arev kbdsvl
+               GTE REname classes
+                  hflsfas
+kndfjns;jfnjva4
+jbfjklagbjbg
+gfkgvds
 		set{ name = 'Test';}
    retrieve class
                next class
@@ -18,7 +28,12 @@ reverse class
 		set{ name = 'Test';}
 new test are availables
              sample test
+
           let me know 
+
+             new dev3 branch
+set rename class
+
 	}
 }
 
